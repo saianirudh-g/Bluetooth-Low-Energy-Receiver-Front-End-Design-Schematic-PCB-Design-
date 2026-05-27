@@ -4,29 +4,6 @@ A mixed-signal RF project focused on the design and implementation of a low-powe
 
 ---
 
-## Repository Structure
-
-```bash
-BLE_Receiver_Front_End_Design/
-│
-├── Presentation/
-│   └── BLE_Receiver_Mixed_Signal_Final_Project.pptx
-│
-├── Circuit_Design/
-│   ├── final_circuit.png
-│
-├── Simulations/
-│   └── ac_response_simulation.png
-│
-├── PCB_Design/
-│   ├── via_design.png
-│   └── final_pcb_layout.png
-│
-└── README.md
-```
-
----
-
 ## Project Overview
 
 This project presents the design of a low-power Bluetooth Low Energy (BLE) receiver front end operating near 2.45 GHz. The receiver chain includes:
@@ -243,6 +220,28 @@ Initial microstrip calculations resulted in:
 - Albertine Byemba-Kilongo
 - Sai Anirudh Godavarthi
 - Karthik Dorepally
+
+## Repository Structure
+
+```bash
+BLE_Receiver_Front_End_Design/
+│
+├── Presentation/
+│   └── BLE_Receiver_Mixed_Signal_Final_Project.pptx
+│
+├── Circuit_Design/
+│   ├── final_circuit.png
+│
+├── Simulations/
+│   └── ac_response_simulation.png
+│
+├── PCB_Design/
+|   ├── board_setup.png
+│   ├── pcb_calculations.png
+│   └── final_pcb_layout.png
+│
+└── README.md
+```
 
 ---
 
